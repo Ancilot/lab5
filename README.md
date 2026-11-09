@@ -50,7 +50,7 @@
    ![После добавления автомобиля](Screenshots/AfterAddCar.png)
   
    ### После удаление автомобиля
-   ![После удаление автомобиля](AfterDeletedCar/AfterDeletedCar.png)
+   ![После удаление автомобиля](Screenshots/AfterDeletedCar.png)
 
    ### Список автомобилей
    ![Список автомобилей](Screenshots/ListCar.png)
