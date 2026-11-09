@@ -41,20 +41,20 @@
 ## Скриншоты результатов тестирования
 
    ### Добавление автомобиля
-    ![Добавление автомобиля](Screenshots/AddCar.png)
+  ![Добавление автомобиля](Screenshots/AddCar.png)
   
    ### Добавление владельца
-    ![Добавление владельца](Screenshots/AddOwner.png)
+   ![Добавление владельца](Screenshots/AddOwner.png)
   
    ### После добавления автомобиля
-    ![После добавления автомобиля](Screenshots/AfterAddCar.png)
+   ![После добавления автомобиля](Screenshots/AfterAddCar.png)
   
    ### После удаление автомобиля
-    ![После удаление автомобиля](AfterDeletedCar/AfterDeletedCar.png)
+  ![После удаление автомобиля](AfterDeletedCar/AfterDeletedCar.png)
 
    ### Список автомобилей
-    ![Список автомобилей](Screenshots/ListCar.png)
+  ![Список автомобилей](Screenshots/ListCar.png)
   
    ### Список Владельцев
-    ![Список Владельцев](Screenshots/ListOwner.png)
+  ![Список Владельцев](Screenshots/ListOwner.png)
   
